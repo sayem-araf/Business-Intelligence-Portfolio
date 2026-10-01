@@ -11,7 +11,7 @@ This Power BI dashboard visualizes sales performance for a US retail store. The 
 - Advanced Excel analysis for additional insights and KPI calculations
 
 **Files included:**  
-- `Food_Mart_BI` – Power BI file with data, model, and visuals  
+- `FoodMart_BI_Report` – Power BI file with data, model, and visuals  
 
 
 **Screenshots:**
