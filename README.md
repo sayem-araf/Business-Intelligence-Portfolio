@@ -18,13 +18,28 @@ Additionally, an Excel file provides advanced analysis of the same data, includi
 **Screenshots:**
 
 
-<img width="1891" height="740" alt="Screenshot 2026-10-01 114312" src="https://github.com/user-attachments/assets/a1b2b541-c7da-46a7-bfbe-bfa22cfb0063" />
 
-<img width="856" height="691" alt="Screenshot 2026-10-01 113958" src="https://github.com/user-attachments/assets/3376f4d6-2e8d-4275-ad35-5c31056bdba0" />
 
-<img width="1285" height="453" alt="Screenshot 2026-10-01 113701" src="https://github.com/user-attachments/assets/ba137a52-e46d-40b3-9f19-62b8d6587191" />
+<img width="1304" height="701" alt="Screenshot 2026-10-01 121124" src="https://github.com/user-attachments/assets/e6f0f097-8215-42a5-aadc-cfcbc734ae2c" />
 
-<img width="1305" height="709" alt="Screenshot 2026-10-01 113522" src="https://github.com/user-attachments/assets/7955184d-03c2-4744-8f00-430887748906" />
+
+
+
+<img width="1285" height="453" alt="Screenshot 2026-10-01 113701" src="https://github.com/user-attachments/assets/51e22d75-5163-489d-b970-59e1ea6bcd36" />
+
+
+
+
+<img width="856" height="691" alt="Screenshot 2026-10-01 113958" src="https://github.com/user-attachments/assets/2218876a-2fd2-4b3a-aeca-b097ff14b938" />
+
+
+
+
+<img width="1891" height="740" alt="Screenshot 2026-10-01 114312" src="https://github.com/user-attachments/assets/a826e1dc-5a4e-443c-929c-b387a36084b9" />
+
+
+
+
 
 
 
