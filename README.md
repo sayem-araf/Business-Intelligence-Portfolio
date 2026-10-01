@@ -14,3 +14,6 @@ Additionally, an Excel file provides advanced analysis of the same data, includi
 **Files included:**  
 - `Food_Mart_BI` – Power BI file with data, model, and visuals  
 - `Foodmart_Data_Analysis_Excel.xlsx` – advanced Excel analysis of the same data
+- 
+<img width="1891" height="740" alt="Screenshot 2026-10-01 114312" src="https://github.com/user-attachments/assets/a1b2b541-c7da-46a7-bfbe-bfa22cfb0063" />
+
